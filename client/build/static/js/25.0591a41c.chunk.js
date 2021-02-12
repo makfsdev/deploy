@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[25],{293:function(e,t,i){"use strict";i.r(t);i(2);var n=i(294),r=i(4);t.default=function(){return Object(r.jsxs)(n.a.Footer,{style:{textAlign:"center",backgroundColor:"#2d576f",position:"absolute",width:"100%",height:"60px",color:"white",marginTop:"1rem"},children:["All Rights Reserved \xa9",(new Date).getFullYear()," Created by M@K-FS-DEV"]})}}}]);
+//# sourceMappingURL=25.0591a41c.chunk.js.map

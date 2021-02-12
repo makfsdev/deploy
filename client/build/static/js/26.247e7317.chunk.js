@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[26],{311:function(t,c,s){"use strict";s.r(c);s(2);var a=s.p+"static/media/blog_ai_124155.4ea924fd.jpg",e=s(4);c.default=function(){return Object(e.jsx)("div",{className:"row ",children:Object(e.jsx)("img",{className:"",src:a,alt:"contact"})})}}}]);
+//# sourceMappingURL=26.247e7317.chunk.js.map
